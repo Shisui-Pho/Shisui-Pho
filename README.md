@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shisui-Pho
+- 👋 Hi, I’m Phiwokwakhe Khathwane
 - 👀 I’m interested in web-applications and games 
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on web-applications 
