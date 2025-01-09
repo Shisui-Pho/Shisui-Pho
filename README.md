@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/YourUsername/YourRepoName/assets/YourImage.png" alt="Welcome Banner" width="100%" />
+  <img src="https://github.com/Shisui-Pho/Shisui-Pho/banner.webp" alt="Welcome Banner" width="100%" />
 </div>  
 
 # 🎨 Welcome to My Creative Hub!  
