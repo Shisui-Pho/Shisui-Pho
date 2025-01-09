@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Shisui-Pho/Shisui-Pho/banner.webp" alt="Welcome Banner" width="100%" />
+  <img src="./banner.webp" alt="Welcome Banner" width="100%" />
 </div>  
 
 # 🎨 Welcome to My Creative Hub!  
@@ -37,5 +37,5 @@ I'm open to joining forces on:
 ---
 
 <div align="center">
-  <img src="https://github.com/YourUsername/YourRepoName/assets/FooterImage.png" alt="Creative Footer" width="80%" />
+  <img src="./footer.webp" alt="Creative Footer" width="80%" />
 </div>
