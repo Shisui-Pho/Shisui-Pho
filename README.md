@@ -11,7 +11,8 @@ I blend **logic and creativity** to build elegant systems. From **console apps**
 💻 **Tech Interests:**  
 - **Efficient libraries** & utilities  
 - **Complex systems** in math and CS  
-- **Tool optimization** with better **structure** & **design**  
+- **Tool optimization** with better **structure** & **design**
+- **Data Science**
 
 🎮 **Bonus:** **Games** & **anime** inspire my problem-solving approach!
 
