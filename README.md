@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./banner.webp" alt="Welcome Banner" width="100%" height="80%" />
-</div>
-
 # 🎩 Welcome to My World of Logic & Creativity!  
 
 ### 👋 **Hi, I’m Phiwokwakhe Khathwane**  
@@ -42,9 +38,3 @@ I’m excited to work on:
 📧 [phiwokwakhe299@gmail.com](mailto:phiwokwakhe299@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/phiwokwakhe-pho-887175245/)  
 📂 [Portfolio](https://shisui-pho.github.io/My-Portfolio/)
-
----
-
-<div align="center">
-  <img src="./footer.webp" alt="Creative Footer" width="100%" />
-</div>
