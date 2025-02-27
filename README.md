@@ -1,10 +1,3 @@
-# 🎩 Welcome to My World of Logic & Creativity!  
-
-### 👋 **Hi, I’m Phiwokwakhe Khathwane**  
-A **problem-solver**, **software enthusiast**, and **creative thinker** passionate about crafting innovative solutions with **algorithms**, **data structures**, and **mathematical modeling**.
-
----
-
 ### 🧠 **About Me**  
 I blend **logic and creativity** to build elegant systems. From **console apps** to **data-driven models**, I focus on **learning, growth**, and impactful solutions.
 
